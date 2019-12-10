@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Shopping Item item</name>
+        <parent>6964b58fdb610010486c64d748961909</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-10 16:42:57</sys_created_on>
+        <sys_id>6964b58fdb610010486c64d74896190b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shopping Item item</sys_name>
+        <sys_package display_value="Shopping List" source="x_405005_shopping">1b8a69c3db610010486c64d748961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">1b8a69c3db610010486c64d748961971</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_6964b58fdb610010486c64d74896190b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-10 16:42:57</sys_updated_on>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>
